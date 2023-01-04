@@ -388,6 +388,3 @@ Vim粘帖复制问题解决：`set paste`
 
 Dos  ->  unix 	:set fileformat =unix
 
-
-
->>>>>>> 74716eb (init)
