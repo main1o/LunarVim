@@ -1,7 +1,5 @@
 # LunarVim
-<<<<<<< HEAD
-LunarVim Help
-=======
+
 
 > [Lunarvim](https://www.lunarvim.org/) 简称Lvim，是Neovim的一个预配置，旨在提供开箱即用的Neovim使用体验
 
